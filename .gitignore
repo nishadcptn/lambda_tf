@@ -1,3 +1,4 @@
 .terraform/
 *.backup
 *.lock.hcl
+*.zip
